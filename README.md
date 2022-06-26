@@ -4,12 +4,12 @@
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
-
-  - 🤔 &nbsp; Exploring new advancements in ML and developing software solutions.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Computer Vision projects.
-  - 🌱 &nbsp; Learning more about Deep Learning.
-  - ✍️ &nbsp; Pursuing Dancing hobbies/side hustle.  
+<br
+  - 🤔  Exploring new advancements in ML and developing software solutions. <br>
+  - 🎓  Studying Computer Science and Engineering.<br>
+  - 💼  I’m currently working on Computer Vision projects.<br>
+  - 🌱  Learning more about Deep Learning.<br>
+  - ✍️ Pursuing Dancing hobbies/side hustle.  <br>
 </div> 
 </div>
 
