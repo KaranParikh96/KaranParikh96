@@ -9,7 +9,7 @@
   - 🎓  Studying Computer Science and Engineering.<br>
   - 💼  I’m currently working on Computer Vision projects.<br>
   - 🌱  Learning more about Deep Learning.<br>
-  - ✍️ Pursuing Dancing hobbies/side hustle.  <br>
+  - ✍️ Pursuing Dance as a hobby!  <br>
 </div> 
 </div>
 
